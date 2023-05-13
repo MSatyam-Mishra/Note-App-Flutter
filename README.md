@@ -1,6 +1,25 @@
-# todo_app_hive
+# Note App made with Flutter
 
-A new Flutter project.
+## Screenshots
+![Samsung Galaxy S20 Ultra Presentation (1)](https://github.com/MSatyam-Mishra/Note-App-Flutter/assets/12216430/a0b3a96c-627d-4fa4-a512-aa2137352f19)
+
+## About Project
+
+- Create Note
+- Save Note
+- View Notes
+- Light Theme/Dark Theme
+
+## Upcomming Features
+
+- You will be able to save Notes Locally
+- You will be able to save Notes on Server
+- Login/SignUp
+- Few Other Changes
+
+## Orignal UI
+[Link](https://dribbble.com/shots/20017643-GoodNotes-Collaborative-Notes-Mobile-App)
+
 
 ## Getting Started
 
