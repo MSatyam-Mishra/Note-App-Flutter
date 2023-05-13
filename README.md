@@ -1,7 +1,8 @@
 # Note App made with Flutter
 
 ## Screenshots
-![Samsung Galaxy S20 Ultra Presentation (1)](https://github.com/MSatyam-Mishra/Note-App-Flutter/assets/12216430/a0b3a96c-627d-4fa4-a512-aa2137352f19)
+
+![Samsung Galaxy S20 Ultra Presentation (1)](https://github.com/MSatyam-Mishra/Note-App-Flutter/assets/12216430/54209392-b070-48ea-88d3-6f073260c5fb)
 
 ## About Project
 
